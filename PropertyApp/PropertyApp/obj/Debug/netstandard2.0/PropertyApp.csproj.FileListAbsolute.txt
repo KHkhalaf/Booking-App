@@ -1,0 +1,14 @@
+G:\courses\xamarin\Some Projects\Animation-In-Xamarin-forms-master\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.deps.json
+G:\courses\xamarin\Some Projects\Animation-In-Xamarin-forms-master\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.dll
+G:\courses\xamarin\Some Projects\Animation-In-Xamarin-forms-master\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\ref\PropertyApp.dll
+G:\courses\xamarin\Some Projects\Animation-In-Xamarin-forms-master\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.pdb
+G:\courses\xamarin\Some Projects\Animation-In-Xamarin-forms-master\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.csprojAssemblyReference.cache
+G:\courses\xamarin\Some Projects\Animation-In-Xamarin-forms-master\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\courses\xamarin\Some Projects\Animation-In-Xamarin-forms-master\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\DetailsPage.xaml.g.cs
+G:\courses\xamarin\Some Projects\Animation-In-Xamarin-forms-master\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\courses\xamarin\Some Projects\Animation-In-Xamarin-forms-master\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.AssemblyInfoInputs.cache
+G:\courses\xamarin\Some Projects\Animation-In-Xamarin-forms-master\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.AssemblyInfo.cs
+G:\courses\xamarin\Some Projects\Animation-In-Xamarin-forms-master\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\XamlC.stamp
+G:\courses\xamarin\Some Projects\Animation-In-Xamarin-forms-master\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.dll
+G:\courses\xamarin\Some Projects\Animation-In-Xamarin-forms-master\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\ref\PropertyApp.dll
+G:\courses\xamarin\Some Projects\Animation-In-Xamarin-forms-master\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.pdb
